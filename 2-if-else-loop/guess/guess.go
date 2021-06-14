@@ -1,10 +1,8 @@
 package main
 
 import (
-	"bufio"
 	"fmt"
 	"math/rand"
-	"os"
 	"time"
 )
 
@@ -16,7 +14,7 @@ func main() {
 	fmt.Println("Can you guess it?")
 	fmt.Println(target)
 
-	reader := bufio.NewReader(os.Stdin)
+	//reader := bufio.NewReader(os.Stdin)
 
 	fmt.Print("Make a guess: ")
 

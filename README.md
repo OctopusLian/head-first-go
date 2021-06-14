@@ -1,2 +1,2 @@
-# Head First Go语言程序设计  
+# 《Head First Go语言程序设计》  
 
